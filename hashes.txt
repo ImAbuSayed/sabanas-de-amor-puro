@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas de amor puro
+
+This log tracks the cryptographic history and versioning for the song **Sábanas de amor puro** (sabanas-de-amor-puro).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T06:25:49.245347 | `v1` | `bebab598adf028997c5e5e70816a5f695cf3637cf737f3e600a30eb975ecbab3` | `36879f5aba57d9d156e6fcf5d4faf18395fd39e5c5294fbcf74a0382d6e59c6c` | `2026-06-22_sabanas-de-amor-puro-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

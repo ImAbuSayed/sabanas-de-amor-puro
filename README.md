@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-de-amor-puro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sábanas de amor puro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-amor-puro/) |
+| **Get License** | [Request Licensing for Sábanas de amor puro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-amor-puro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bebab598adf028997c5e5e70816a5f695cf3637cf737f3e600a30eb975ecbab3` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
